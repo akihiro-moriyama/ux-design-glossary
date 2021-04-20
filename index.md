@@ -10,7 +10,7 @@
 
 ###### 本件問い合わせ先
 
-Akihiro MORIYAMA mailto:hiro29820292 [atmark] gmail [dot] com
+Akihiro MORIYAMA ([https://akihiro-moriyama.github.io/](https://akihiro-moriyama.github.io/))
 
 ## 英数字
 
