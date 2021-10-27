@@ -1,6 +1,6 @@
 # このリポジトリについて
 
-このリポジトリは、ウェブサイト「UX Design Glossary」( [https://akihiro-moriyama.github.io/ux-design-glossary/#!index.md](https://akihiro-moriyama.github.io/ux-design-glossary/#!index.md) )を管理するためのものです。
+このリポジトリは、ウェブサイト「UX Design Glossary」( [https://akihiro-moriyama.github.io/ux-design-glossary/](https://akihiro-moriyama.github.io/ux-design-glossary/) )を管理するためのものです。
 
 このリポジトリには、MDwiki( [https://github.com/Dynalon/mdwiki/](https://github.com/Dynalon/mdwiki/) )の著作物が含まれています。MDwikiはGPLv3ライセンスに基づいて公開されています。
 
